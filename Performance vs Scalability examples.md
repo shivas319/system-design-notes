@@ -91,7 +91,7 @@ A truly well-designed system needs **both**: fast individual operations *and* th
 
 ---
 
-Good exercise — this is the kind of pattern-matching that makes the distinction stick. Let me give you 5 real-world **read** examples and 5 real-world **write** examples for each concept, so you see how the Performance/Scalability split shows up on both sides of the data path.
+Let me give you 5 real-world **read** examples and 5 real-world **write** examples for each concept, so you see how the Performance/Scalability split shows up on both sides of the data path.
 
 ## Performance examples (fast for a single operation, right now)
 
